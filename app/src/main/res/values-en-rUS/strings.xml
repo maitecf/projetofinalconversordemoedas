@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="de">from</string>
+    <string name="para">to</string>
+    <string name="valor">value</string>
+</resources>
